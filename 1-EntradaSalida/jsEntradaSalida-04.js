@@ -1,15 +1,12 @@
-/* 
+/*  Julian Medina DIV I
+ES 04
+
 Debemos lograr tomar un dato por 'PROMPT' 
 y lo muestro por 'ID' al presionar el botón 'mostrar'
 */
 function mostrar()
 {
-	
-	//let datoingresado;
-	//datoingresado=txtIdNombre.value;
-	//datoingresado=prompt("Ingrese el dato");
-	//txtIdNombre.value=datoingresado;
-	
+		
 	// reservo espacio en memoria para guardar el nombre del user
 	let nombre;
 	
