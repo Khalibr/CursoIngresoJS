@@ -1,4 +1,5 @@
-/*
+/* Julian Medina Div I
+ES 06
 Debemos lograr tomar Los numeros por ID ,
 transformarlos a enteros (parseInt) y Sumarlos.
 mostrar el resulto por medio de "ALERT"*/
@@ -13,6 +14,7 @@ function sumar()
 
 	resultado=num1+num2;
 
-	alert("La suma es "+resultado);
-}
+	//alert("La suma es "+resultado);
 
+	alert(`La suma es ${resultado}`);
+}

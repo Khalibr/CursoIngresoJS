@@ -13,7 +13,7 @@ function mostrar()
 
 	// alert("Usted se llama "+nombre+" y tiene "+edad+" años");
 	
-	// otra forma de codear!
+	// otra forma de codear
 	alert(`Usted se llama ${nombre} y tiene ${edad} años`);
 
 	document.getElementById("txtIdNombre").value="";
@@ -21,4 +21,3 @@ function mostrar()
 
 	
 }
-
